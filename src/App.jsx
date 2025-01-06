@@ -1,5 +1,5 @@
 import React from "react";
-import IncomeAndExpenceCard from "./component/incomeAndExpenceCard";
+import IncomeAndExpenceCard from "./component/IncomeAndExpenceCard"
 import TitleAndBalance from "./component/TitleAndBalance";
 import TransactionHistory from "./component/TransactionHistory";
 import AddTransaction from "./component/AddTransaction";
