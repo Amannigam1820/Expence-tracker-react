@@ -10,7 +10,7 @@ const TitleAndBalance = () => {
         <div className="">
         <h3 className="mt-8 ml-4 text-2xl  font-bold float-left">Expence Tracker</h3>
          <div className="float-right mr-5 mt-10">
-          <span>Your balance: <b>${expence.balance}</b> </span>
+          <span>Your balance update: <b>${expence.balance}</b> </span>
           
          </div>
       </div>
